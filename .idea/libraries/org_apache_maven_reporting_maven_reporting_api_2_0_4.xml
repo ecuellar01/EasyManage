@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.apache.maven.reporting:maven-reporting-api:2.0.4" type="repository">
+    <properties maven-id="org.apache.maven.reporting:maven-reporting-api:2.0.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/reporting/maven-reporting-api/2.0.4/maven-reporting-api-2.0.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
